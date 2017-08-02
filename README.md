@@ -26,3 +26,9 @@ Support
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+
+ Screenshots
+ Miwok-app/screenshots/device-2017-08-02-182313.png 
+ Miwok-app/screenshots/device-2017-08-02-182330.png 
+ Miwok-app/screenshots/device-2017-08-02-182339.png 
+ Miwok-app/screenshots/device-2017-08-02-182346.png 
